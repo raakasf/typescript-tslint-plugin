@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "minimatch": "^3.0.4",
-    "mock-require": "^3.0.2",
+    "mock-require": "^3.0.3",
     "vscode-languageserver": "^5.1.0"
   },
   "devDependencies": {
